@@ -1,5 +1,1 @@
-layout: page
-title: Calendar
-weight: 98
-
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=Europe%2FAmsterdam&showCalendars=0&showPrint=0&showTabs=1&showTitle=1&showNav=1&showDate=1&showTz=1&src=Y184ODNwc20wa2gzbmlkZHJrYWJxMHUxYXNjOEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23C0CA33" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
