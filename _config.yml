@@ -1,7 +1,7 @@
 layout: page
 theme: jekyll-theme-cayman
 title: Events
-permalink: /events.html
+permalink: /events
 type: info
 description: We track our past & upcoming events here.
 calendar: true
